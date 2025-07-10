@@ -207,7 +207,7 @@ public class FormularioPrincipal extends javax.swing.JFrame {
         /* Create and display the form */
         java.awt.EventQueue.invokeLater(new Runnable() {
             public void run() {
-                new FormularioPrincipal().setVisible(true);
+                 new LoginFrom().setVisible(true);
             }
         });
     }
